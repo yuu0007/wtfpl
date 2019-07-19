@@ -80,7 +80,34 @@ as the name is changed.
 >
 > Thanks for reading this babbling around, even doubting anyone will ever use WTFPLv3.
 
-Well, thanks to you, `iostream`.
+Well, thanks to you, `iostream`, I've decided to go with the slightly modified WTFPLv3.1...
+
+###Version 3.1
+Change instances of //`license`// -> **`licence`**
+
+My recommendation is to just do what the fuck you want to. Copy it, change 'em back to `license`, increase the version number, convert spaces to tabs, whatever dude. Might do up a small git repo showing the changes of this.
+
+```
+name=COPYING
+            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENCE
+                    Version 3.1, July 2019
+
+ by Sam Hocevar <sam@hocevar.net>
+    theiostream <matoe@matoe.co.cc>
+    dtf         <wtfpl@dtf.wtf>
+
+            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENCE
+   TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
+
+  0. You just DO WHAT THE FUCK YOU WANT TO.
+```
+```
+name=put somewhere in-code
+# This project is libre, and licenced under the terms of the
+# DO WHAT THE FUCK YOU WANT TO PUBLIC LICENCE, version 3.1,
+# as published by dtf on July 2019. See the COPYING file or
+# https://ph.dtf.wtf/w/wtfpl/#version-3-1 for more details.
+```
 
 ---
 
