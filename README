@@ -1,8 +1,10 @@
-##WTFPL
+# WTFPL
 Supposedly not a `copyleft` licence [0], but it's certainly the most libre in
 my book.
 
-###Version 1
+See *[rWTFPL](https://ph.dtf.wtf/source/wtfpl/)* for the maintained repo.
+
+## Version 1
 ```
 do What The Fuck you want to Public License
 
@@ -18,7 +20,7 @@ and you just
 DO WHAT THE FUCK YOU WANT TO.
 ```
 
-###Version 2
+## Version 2
 ```
            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
                    Version 2, December 2004
@@ -35,15 +37,15 @@ as the name is changed.
  0. You just DO WHAT THE FUCK YOU WANT TO.
 ```
 
-###Version 3
+## Version 3
 
-> ####Introducing WTFPL v3
-> #####2012-03-24
+> ### Introducing WTFPL v3
+> #### 2012-03-24
 >
 > I’ve never licensed any of my projects, since they’re all free, opensource,
 > and I wouldn’t really care if anyone used my projects and even sold them. A
 > friend of mine asked me about licensing and I gave him that answer. Then, he
-> introduced me to **[[ https://web.archive.org/web/20140705065219/http://sam.zoy.org/wtfpl | WTFPL ]]**.
+> introduced me to **[WTFPL](https://web.archive.org/web/20140705065219/http://sam.zoy.org/wtfpl)**.
 >
 > I loved it, really. From all of the free software licenses, this was the only
 > one I really felt free with, without thousands of unreadable clauses, causing
@@ -72,7 +74,7 @@ as the name is changed.
 > To solve these issues, simple adjustements were made: Replace the copyright
 > warning by a simple by Sam Hocevar observation, and entirely remove the
 > paragraph about changing the license, leaving it completely free. The result
-> is **[[ https://web.archive.org/web/20140705065219/http://theiostream.github.com/wtfpl/LICENSE.txt | here ]]**, to be placed on COPYING or LICENSE files of a project:
+> is **[here](https://web.archive.org/web/20140705065219/http://theiostream.github.com/wtfpl/LICENSE.txt)**, to be placed on COPYING or LICENSE files of a project:
 >
 > ```
 >             DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
@@ -90,7 +92,7 @@ as the name is changed.
 >
 > Now, I figured it was time to solve another blank area left by WTFPL: A note
 > to be inserted into a code’s comments to indicate a license, or in a README
-> file. **[[ https://web.archive.org/web/20140705065219/http://theiostream.github.com/wtfpl/COPYING.txt | This ]]** is what I put together:
+> file. **[This](https://web.archive.org/web/20140705065219/http://theiostream.github.com/wtfpl/COPYING.txt)** is what I put together:
 >
 > ```
 > This project is licensed under the terms of the
@@ -102,17 +104,16 @@ as the name is changed.
 >
 > Thanks for reading this babbling around, even doubting anyone will ever use WTFPLv3.
 
-Well, thanks to you, `iostream`, I've decided to go with the slightly modified WTFPLv3.1...
+Well, thanks to you, [@theiostream](https://github.com/theiostream/theiostream.github.com), I've decided to go with the slightly modified WTFPLv3.1...
 
-###Version 3.1
-- Change instances of //`license`// -> **`licence`**
+## Version 3.1
+- Change instances of *`license`* -> **`licence`**
 
 My recommendation is to just do what the fuck you want to. Copy it, change 'em
 back to `license`, increase the version number, convert spaces to tabs,
 whatever dude.
 
 ```
-name=COPYING
             DO WHAT THE FUCK YOU WANT TO PUBLIC LICENCE
                     Version 3.1, July 2019
 
@@ -125,8 +126,10 @@ name=COPYING
 
   0. You just DO WHAT THE FUCK YOU WANT TO.
 ```
+
+
+Put this somewhere in-code:
 ```
-name=put somewhere in-code
 # This project is libre, and licenced under the terms of the
 # DO WHAT THE FUCK YOU WANT TO PUBLIC LICENCE, version 3.1,
 # as published by dtf on July 2019. See the COPYING file or
@@ -135,7 +138,7 @@ name=put somewhere in-code
 
 ---
 
-[0] - [[ https://www.gnu.org/licenses/license-list.en.html#WTFPL | GNU Project - Various Licenses and Comments about Them ]]
+[0] - [GNU Project - Various Licenses and Comments about Them](https://www.gnu.org/licenses/license-list.en.html#WTFPL)
 
 ---
 
